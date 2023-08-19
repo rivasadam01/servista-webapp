@@ -11,16 +11,16 @@ input {
   width: 250px;
   padding: 10px;
   margin: 10px;
-  border: 2px solid #444;
+  border: 2px solid #a6d1c5;
   border-radius: 5px;
   background-color: transparent;
-  color: #fff;
+  color: #425f74;
   outline: none;
 }
 
 button {
   width: 270px;
-  background-color: #444;
+  background-color: #a6d1c5;
   border: none;
   padding: 10px 20px;
   margin: 10px;
@@ -31,6 +31,6 @@ button {
 }
 
 button:hover {
-  background-color: #666;
+  background-color: #8bd0bd;
   transform: scale(1.05);
 }

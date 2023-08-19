@@ -1,7 +1,7 @@
 body {
   font-family: "Arial", sans-serif;
-  background-color: #222;
-  color: #fff;
+  background-color: v#fefefe;
+  color: black;
 }
 
 .App {
@@ -10,5 +10,5 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: linear-gradient(to bottom right, #333, #111);
+  background-image: linear-gradient(to bottom right, #fefefefe, #a6d1c5);
 }
